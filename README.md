@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rugvedk28
-- 👀 I’m interested in building applications
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in building web applications, c++ and python projects.
+- 🌱 I’m currently learning C++, Python and JavaScript.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: 1) IG.com/rugvedk28 2)twitter.com/rugvedk28
 
