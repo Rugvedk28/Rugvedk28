@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Rugvedk28<br>👀 I’m interested in building Web Applications, C++ and Python projects.<br>🌱 I’m currently learning ReactJs and Backend Web Developement.<br>📫 website: rugvedk28.github.io/portfolio
+👋 Hi, I’m @Rugvedk28<br>👀 I’m interested in building Web Applications, C++ and Python projects.<br>🌱 I’m currently learning ReactJs and Backend Web Developement.<br>💫I also work with Graphic Design and UI-UX design<br>📫 website: rugvedk28.github.io/portfolio
 
 
 ## 🌐 Socials:
