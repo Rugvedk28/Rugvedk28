@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rugved!</h1>
 <h3 align="center">Passionate Software and Full Stack Developer</h3>
-- 🌱 I’m currently learning **NextJS**<br>
-- 📫 How to reach me **rugvedrk1189@gmail.com**<br>
-- ⚡ Fun fact **I am also a passionate musician**
+- 🌱 I’m currently learning NextJS<br>
+- 📫 How to reach me rugvedrk1189@gmail.com<br>
+- ⚡ Fun fact I am also a passionate musician
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
